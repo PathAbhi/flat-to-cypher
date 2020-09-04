@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "moment": "^2.24.0",
-    "papaparse": "^4.6.3"
+    "papaparse": "^5.2.0"
   }
 }
